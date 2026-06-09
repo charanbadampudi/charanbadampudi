@@ -1,121 +1,67 @@
-<h1 align="center">Hi 👋, I'm Charan Badampudi</h1>
-<h3 align="center">Aspiring AI/ML Engineer | Data Science Enthusiast | Building Intelligent Solutions with Python</h3>
+# Hi, I'm Charan Badampudi 👋
+
+**ML Engineer · Final Year CSE · Parul University '26**
+
+> Building end-to-end AI systems in Python — NLP, Computer Vision, and Audio AI.
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 Focus Areas
 
-🎓 Final-year Computer Science Engineering student at Parul University with a strong passion for Artificial Intelligence, Machine Learning, and Data Science.
-
-💡 I specialize in developing AI-driven applications that transform complex data into meaningful insights and practical solutions. My experience spans across Natural Language Processing (NLP), Computer Vision, Audio Processing, and Predictive Analytics.
-
-📊 During my Data Science & Data Analytics internship at Aenexz Tech, I worked on data preprocessing, exploratory data analysis (EDA), visualization, and machine learning workflows to solve real-world problems.
-
-🚀 I enjoy taking projects from concept to deployment, building end-to-end solutions using Python, Streamlit, Flask, and modern machine learning frameworks.
+`Python` `Machine Learning` `NLP` `Computer Vision` `Deep Learning` `Streamlit` `DSP / Audio AI` `MySQL`
 
 ---
 
-## 🔬 Areas of Interest
+## 🛠️ Skills
 
-• Machine Learning  
-• Deep Learning  
-• Natural Language Processing (NLP)  
-• Computer Vision  
-• Generative AI  
-• Predictive Analytics  
-• Data Visualization  
-• MLOps & Model Deployment  
+| Area | Tools |
+|---|---|
+| Languages | Python · Java · SQL · HTML/CSS |
+| ML / AI | Scikit-learn · PyTorch · HuggingFace · YOLOv8 |
+| Data | Pandas · NumPy · Matplotlib · Seaborn |
+| NLP / Audio | SpaCy · NLTK · BLIP · BERT · Librosa |
 
 ---
 
-## 🛠️ Technical Skills
+## 💼 Experience
 
-### Programming Languages
-- Python
-- Java
-- SQL
+**Aenexz Tech Private Limited** — Data Science & Analytics Intern
+*Jan 2026 – Apr 2026 · Bangalore*
 
-### Data Science & Machine Learning
-- Scikit-learn
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Feature Engineering
-- Model Evaluation
-- Exploratory Data Analysis (EDA)
-
-### Deep Learning & AI
-- PyTorch
-- YOLOv8
-- Hugging Face
-- BERT
-- BLIP
-- NLP Pipelines
-
-### Web & Deployment
-- Streamlit
-- Flask
-- HTML
-- CSS
-
-### Tools & Platforms
-- Git
-- GitHub
-- Jupyter Notebook
+Worked on data analysis, visualization, and ML models — EDA, preprocessing, feature engineering, and predictive modeling in Python.
 
 ---
 
-## 🌟 Featured Projects
+## 🚀 Projects
 
-### 🔊 SonicAI – Intelligent Voice & Audio Enhancement
-Developed an AI-powered speech enhancement system that leverages machine learning and digital signal processing techniques to improve audio quality and speech intelligibility.
-
-**Tech Stack:** Python, Librosa, PyDub, DSP, Machine Learning
-
----
-
-### 📄 Resume Screening & Matching Application
-Built a Streamlit-based NLP application capable of extracting information from resumes, matching candidates with job descriptions, and identifying skill gaps to improve recruitment efficiency.
-
-**Tech Stack:** Python, Streamlit, SpaCy, NLTK, Scikit-learn, Pandas
+### 🔊 SonicAI — Intelligent Voice & Audio Enhancement
+AI system for speech quality enhancement using ML and DSP techniques, combining noise reduction with perceptual audio models.
+`Python` `Librosa` `PyDub` `DSP`
 
 ---
 
-### 🖼️ Convolutional Image Recognition Chatbot
-Designed an intelligent chatbot capable of detecting objects, generating image captions, and answering image-based queries using state-of-the-art deep learning models.
-
-**Tech Stack:** Python, Flask, YOLOv8, BLIP, BERT, Hugging Face, PyTorch
-
----
-
-### 🚢 Titanic Survival Prediction
-Implemented a complete machine learning pipeline involving data cleaning, feature engineering, visualization, and predictive modeling to identify factors influencing passenger survival.
-
-**Tech Stack:** Python, Pandas, Matplotlib, Seaborn, Scikit-learn
+### 📄 Resume Screening & Matching App
+NLP-powered Streamlit platform for resume–JD matching with keyword gap analysis and recruiter-facing visual insights.
+`SpaCy` `NLTK` `Scikit-learn` `Streamlit`
 
 ---
 
-## 📈 Current Focus
-
-🌱 Expanding my expertise in:
-
-- Advanced Machine Learning Algorithms
-- Deep Learning Architectures
-- Generative AI Applications
-- MLOps and Model Deployment
-- Building Production-Ready AI Systems
+### 👁️ Convolutional Image Recognition Chatbot
+Multi-modal chatbot for object detection, captioning, and visual Q&A with a Flask backend for real-time inference.
+`YOLOv8` `BLIP` `BERT` `HuggingFace` `Flask`
 
 ---
 
-## 🤝 Let's Connect
-
-📧 Email: charanbadampudi7@gmail.com
-
-💼 LinkedIn: [https://www.linkedin.com/in/charanbadampudi]
-
-🐙 GitHub: [https://github.com/charanbadampudi]
+### 📊 MarketPulse Analytics
+EDA on AI job market trends and BMW sales data to surface hiring patterns and market signals through visual analytics.
+`Pandas` `Matplotlib` `Seaborn` `NumPy`
 
 ---
 
-> *"Passionate about leveraging AI to solve real-world challenges and create impactful, data-driven solutions."*
+## 📬 Contact
+
+📧 charanbadampudi7@gmail.com · 📍 India
+
+---
+
+*Always building. Always learning.*
