@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ Charan Badampudi ✨
+# Charan Badampudi 
 
 ### ML Engineer | AI/ML Enthusiast | Final Year CSE @ Parul University '26
 
@@ -15,7 +15,8 @@
 
 ## 📖 About Me
 
-```python
+```
+python
 class CharanBadampudi:
     def __init__(self):
         self.role = "ML Engineer / AI/ML Enthusiast"
@@ -199,20 +200,6 @@ End-to-end ML project predicting passenger survival using Logistic Regression, R
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=charanbadampudi&show_icons=true&theme=gruvbox&hide_border=true&bg_color=0d1117&title_color=FF9933&icon_color=FF9933&text_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=charanbadampudi&layout=compact&theme=gruvbox&hide_border=true&bg_color=0d1117&title_color=FF9933&text_color=ffffff)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=charanbadampudi&theme=gruvbox&hide_border=true&background=0d1117&stroke=FF9933&ring=FF9933&fire=FF9933&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FF9933&sideLabels=FF9933&dates=ffffff)
-
-</div>
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
@@ -231,7 +218,5 @@ End-to-end ML project predicting passenger survival using Logistic Regression, R
 ### 🚀 *"Always building. Always learning."* 🚀
 
 ---
-
-![Profile Views](https://komarev.com/ghpvc/?username=charanbadampudi&label=Profile%20Views&color=FF9933&style=flat-square)
 
 </div>
