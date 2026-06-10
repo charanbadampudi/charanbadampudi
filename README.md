@@ -218,16 +218,17 @@ Conducted exploratory data analysis on AI employment trends and BMW sales datase
   
 ## 🎓 Education
 
-|           Degree          |         Institution        |    Year   |    Score   |
-| :-----------------------: | :------------------------: | :-------: | :--------: |
-|     🎓 **B.Tech CSE**     | Parul University, Vadodara | 2022–2026 | CGPA: 7.02 |
-| 📚 **Intermediate (MPC)** |  Sri Chaitanya, Vijayawada | 2020–2022 |  913/1000  |
+🎓 **B.Tech in Computer Science & Engineering**  
+**Parul University, Vadodara** • 2022 – 2026 
+• CGPA: 7.02  
+
+Pursuing my undergraduate studies with a growing specialization in Artificial Intelligence and Data Science. Alongside my academics, I have gained hands-on experience through industry internships and projects spanning Natural Language Processing, Computer Vision, Audio Intelligence, and predictive modeling, strengthening my ability to build end-to-end AI solutions.
 
 </div>
 
 ---
 
-<div align="center">\
+<div align="center">
   
 ## 📫 Let's Connect
 
