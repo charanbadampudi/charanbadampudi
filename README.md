@@ -76,18 +76,26 @@ Computer Science student passionate about building intelligent systems that solv
 
 </div>
 
+Completed a **3-month internship in Data Science & Data Analytics** at **Aenexz Tech Private Limited**, where I worked on **data analysis, visualization, and machine learning concepts**. Gained hands-on experience in **Python, data preprocessing, exploratory data analysis (EDA), and predictive modeling** while demonstrating **consistency, innovation, and active participation** throughout the internship period.
+
 <div align="center">
 
-| Task                       | Description                                                                                                           |
-| -------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| 🧹 **Data Processing**     | Collected, cleaned, and transformed raw datasets into analysis-ready formats using effective preprocessing techniques |
-| 📈 **EDA**                 | Performed exploratory data analysis to identify trends, correlations, and actionable insights from complex datasets   |
-| 🔧 **Feature Engineering** | Designed and optimized features to enhance model performance and predictive capabilities                              |
-| 🤖 **Predictive Modeling** | Developed and evaluated machine learning models using Scikit-learn for classification tasks                           |
-| 📊 **Visualization**       | Created impactful visualizations using Matplotlib and Seaborn to communicate findings effectively                     |
-| 🚀 **ML Workflows**        | Participated in the end-to-end machine learning lifecycle, from experimentation to model evaluation                   |
+| Task                       | Description                                                                                                            |
+| -------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| 🧹 **Data Processing**     | Collected, cleaned, and transformed raw datasets into analysis-ready formats using effective preprocessing techniques  |
+| 📈 **EDA**                 | Performed exploratory data analysis to identify trends, correlations, and actionable insights from complex datasets    |
+| 🔧 **Feature Engineering** | Designed and optimized features to enhance model performance and predictive capabilities                               |
+| 🤖 **Predictive Modeling** | Developed and evaluated machine learning models using Scikit-learn for classification tasks                            |
+| 📊 **Visualization**       | Created impactful visualizations using Matplotlib and Seaborn to communicate findings effectively                      |
+| 🚀 **ML Workflows**        | Participated in the end-to-end machine learning lifecycle, from experimentation to model evaluation and interpretation |
 
 </div>
+
+### 🚢 Internship Project: Titanic Survival Analysis
+
+During the internship, developed a **Titanic Survival Analysis** project using **Python and machine learning techniques** to analyze passenger data and predict survival outcomes. The project involved **data cleaning, feature engineering, exploratory data analysis (EDA), visualization, and predictive modeling** to identify the key factors influencing passenger survival.
+
+**Technologies Used:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
 ---
 
