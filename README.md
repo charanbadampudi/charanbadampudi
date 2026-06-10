@@ -29,9 +29,10 @@ Computer Science student passionate about building intelligent systems that solv
 
 ---
 
+<div align="center">
+  
 ## 🛠️ Tech Stack
 
-<div align="center">
 
 ### 💻 Core Languages
 
