@@ -6,7 +6,7 @@
 
 [![Email](https://img.shields.io/badge/Gmail-charanbadampudi7%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:charanbadampudi7@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-charan%20badampudi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/charanbadampudi)
-[![Location](https://img.shields.io/badge/Location-India-FF9933?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=India)
+[![Location](https://img.shields.io/badge/Location-India-FF9933?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Bhimavaram)
 [![Phone](https://img.shields.io/badge/Phone-%2B91%209515700267-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919515700267)
 
 ---
