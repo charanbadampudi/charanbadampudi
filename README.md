@@ -10,7 +10,7 @@
 
 ## 📌 About Me
 
-Final-year Computer Science student with hands-on experience building production-grade AI systems in Python. My work spans **NLP**, **computer vision**, and **audio signal intelligence** — with a focus on end-to-end ML pipelines from data preprocessing through model deployment. Currently seeking full-time or internship roles in AI/ML Engineering.
+Computer Science student with hands-on experience building production-grade AI systems in Python. My work spans **NLP**, **computer vision**, and **audio signal intelligence** — with a focus on end-to-end ML pipelines from data preprocessing through model deployment. Currently seeking full-time or internship roles in AI/ML Engineering.
 
 - 🔬 Building end-to-end ML systems — from raw data to deployed Streamlit apps
 - 🤖 Currently exploring advanced CV architectures, HuggingFace fine-tuning & multimodal AI
