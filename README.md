@@ -15,7 +15,7 @@
 
 ## About Me
 
-I'm a final-year Computer Science student passionate about creating production-grade AI systems. My expertise spans NLP, Computer Vision, and Audio Intelligence, with a focus on complete ML pipelines — from data preprocessing to model deployment.
+Computer Science student passionate about creating production-grade AI systems. My expertise spans NLP, Computer Vision, and Audio Intelligence, with a focus on complete ML pipelines — from data preprocessing to model deployment.
 
 - 🔬 Building end-to-end ML systems — from raw data to deployed Streamlit apps
 - 🤖 Currently exploring advanced CV architectures, HuggingFace fine-tuning & multimodal AI
