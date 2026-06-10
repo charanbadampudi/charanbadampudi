@@ -82,6 +82,13 @@ Worked end-to-end on data analysis and ML pipelines — data cleaning, explorato
 
 ---
 
+### 🚢 Titanic Survival Analysis
+> Built a Titanic survival prediction system using Python and ML techniques. Covered data cleaning, feature engineering, EDA, visualization, and classification model training to identify key survival factors.
+
+`Python` `Pandas` `Scikit-learn` `Matplotlib` `Seaborn` `Classification` `EDA`
+
+---
+
 ## 🎓 Education
 
 | Degree | Institution | Year | Score |
