@@ -84,6 +84,7 @@
 | 📊 **Visualization** | Created dashboards and plots using Matplotlib & Seaborn |
 
 </div>
+
 ---
 
 ## 🚀 Featured Projects
