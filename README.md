@@ -1,131 +1,158 @@
-# Charan Badampudi
+<div align="center">
 
-**ML Engineer · AI/ML Enthusiast · Parul University '26**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=500&color=6B7280&center=true&vCenter=true&width=500&lines=Charan+Badampudi;ML+Engineer;AI%2FML+Enthusiast" alt="Typing SVG" />
 
-[![Email](https://img.shields.io/badge/Email-charanbadampudi7%40gmail.com-C97B2F?style=flat-square&logo=gmail&logoColor=white)](mailto:charanbadampudi7@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-charan%20badampudi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/charanbadampudi)
-![Location](https://img.shields.io/badge/Location-India-green?style=flat-square)
-
----
-
-## 📌 About Me
-
-Computer Science student with hands-on experience building production-grade AI systems in Python. My work spans **NLP**, **computer vision**, and **audio signal intelligence** — with a focus on end-to-end ML pipelines from data preprocessing through model deployment. Currently seeking full-time or internship roles in AI/ML Engineering.
-
-- 🔬 Building end-to-end ML systems — from raw data to deployed Streamlit apps
-- 🤖 Currently exploring advanced CV architectures, HuggingFace fine-tuning & multimodal AI
-- 🌱 3-month Data Science & Analytics internship @ Aenexz Tech, Bangalore
-- 💼 Open to: AI/ML Engineering, Data Science, Applied Research roles
+<p>
+  <a href="mailto:charanbadampudi7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-charanbadampudi7%40gmail.com-6B7280?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/charanbadampudi">
+    <img src="https://img.shields.io/badge/LinkedIn-charan%20badampudi-6B7280?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-India-6B7280?style=flat-square&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Phone-%2B91-9515700267-6B7280?style=flat-square&logo=whatsapp&logoColor=white" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+</div>
 
-### Core Languages
-![Python](https://img.shields.io/badge/Python-Expert-C97B2F?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Proficient-C97B2F?style=flat-square&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-Intermediate-C97B2F?style=flat-square&logo=java&logoColor=white)
+## 👨‍💻 About Me
 
-### ML / AI Frameworks
+<div align="center">
 
-| Category | Tools |
-|----------|-------|
-| Machine Learning | Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn |
-| Deep Learning | PyTorch, HuggingFace Transformers |
-| NLP | SpaCy, NLTK, BERT, BLIP |
-| Computer Vision | YOLOv8, OpenCV |
-| Audio / DSP | Librosa, PyDub, Digital Signal Processing |
-| Deployment | Streamlit, Flask |
-| Databases | MySQL |
-| Tools | Git, Jupyter |
+🔬 Building end-to-end ML systems — from raw data to deployed apps
+
+🤖 Exploring advanced CV architectures, HuggingFace fine-tuning & multimodal AI
+
+🌱 3-month Data Science & Analytics internship @ Aenexz Tech, Bangalore
+
+💼 Open to: AI/ML Engineering, Data Science, Applied Research roles
+
+</div>
+
+---
+
+## 🛠️ Technical Skills
+
+<div align="center">
+
+**Core Languages:** `Python` `SQL` `Java`
+
+**ML & AI:** `Scikit-learn` `PyTorch` `HuggingFace`
+
+**Data Science:** `Pandas` `NumPy` `Matplotlib` `Seaborn` `EDA`
+
+**NLP & CV:** `SpaCy` `NLTK` `BERT` `BLIP` `YOLOv8` `OpenCV`
+
+**Audio:** `Librosa` `PyDub` `DSP`
+
+**Tools:** `Streamlit` `Flask` `Git` `Jupyter` `MySQL`
+
+</div>
 
 ---
 
 ## 💼 Experience
 
-### Aenexz Tech Private Limited — Data Science & Analytics Intern
-**Jan 2026 – Apr 2026 · Bangalore, India**
+<div align="center">
 
-Worked end-to-end on data analysis and ML pipelines — data cleaning, exploratory data analysis, feature engineering, visualization, and predictive model building. Demonstrated consistent delivery across multiple analytical tasks with a focus on Python-based workflows.
+**Aenexz Tech Private Limited** — Data Science & Analytics Intern *(Jan 2026 – Apr 2026)*
 
-**Tech:** `Python` `EDA` `Machine Learning` `Data Preprocessing` `Predictive Modeling` `Matplotlib` `Seaborn`
+*Bangalore, India*
+
+- Data cleaning, EDA, feature engineering, and predictive modeling
+- Python-based ML workflows and data visualization
+
+</div>
 
 ---
 
 ## 🚀 Projects
 
-### 🔊 SonicAI — Intelligent Voice & Audio Enhancement
-> AI system for speech quality enhancement combining ML models with DSP techniques. Handles noise reduction, clarity improvement, and perceptual audio optimization for real-world speech signals.
+<div align="center">
 
-`Python` `Librosa` `PyDub` `DSP` `Audio Enhancement`
+**🔊 SonicAI** — Speech quality enhancement using ML + DSP
 
----
-
-### 📄 Resume Screening & Matching App
-> Streamlit platform that extracts, preprocesses, and matches resumes to job descriptions using NLP. Features keyword gap analysis, semantic scoring, and visual recruiter insights.
-
-`SpaCy` `NLTK` `Scikit-learn` `Streamlit` `Pandas`
+`Python` `Librosa` `PyDub` `DSP`
 
 ---
 
-### 👁️ Convolutional Image Recognition Chatbot
-> Multi-modal chatbot for real-time object detection, image captioning, and visual Q&A. Flask backend for inference, powered by YOLOv8, BLIP, and BERT.
+**📄 Resume Screening App** — NLP-based resume-JD matching with Streamlit
 
-`YOLOv8` `BLIP` `BERT` `HuggingFace` `Flask` `PyTorch`
+`SpaCy` `NLTK` `Scikit-learn` `Streamlit`
 
 ---
 
-### 📊 MarketPulse Analytics
-> Exploratory data analysis on AI job market trends and BMW automotive sales to surface hiring patterns, demand signals, and market insights through visual analytics.
+**👁️ Image Recognition Chatbot** — Object detection + image captioning + VQA
+
+`YOLOv8` `BLIP` `BERT` `Flask` `PyTorch`
+
+---
+
+**🔐 VaultNotes** — AES-256 encrypted notes (client-side encryption)
+
+`React` `Node.js` `Express` `MongoDB` `JWT`
+
+---
+
+**📊 MarketPulse Analytics** — EDA on AI job market & automotive trends
 
 `Pandas` `NumPy` `Matplotlib` `Seaborn`
 
 ---
 
-### 🚢 Titanic Survival Analysis
-> Built a Titanic survival prediction system using Python and ML techniques. Covered data cleaning, feature engineering, EDA, visualization, and classification model training to identify key survival factors.
+**🚢 Titanic Survival Analysis** — Classification model for passenger survival prediction
 
-`Python` `Pandas` `Scikit-learn` `Matplotlib` `Seaborn` `Classification` `EDA`
+`Python` `Pandas` `Scikit-learn` `Matplotlib` `Seaborn`
 
----
-
-### 🔐 VaultNotes — Secure Encrypted Notes
-> Secure notes app where every note is AES-256 encrypted **client-side** before being stored in MongoDB. The server never sees plaintext.
-
-`React` `Node.js` `Express` `MongoDB` `AES-256` `JWT` `Tailwind CSS`
+</div>
 
 ---
 
 ## 🎓 Education
 
+<div align="center">
+
 | Degree | Institution | Year | Score |
-|--------|-------------|------|-------|
-| B.Tech — Computer Science & Engineering | Parul University, Vadodara | 2022–2026 | CGPA: 7.02 |
-| Intermediate — MPC | Sri Chaitanya, Vijayawada | 2020–2022 | 913/1000 |
+|:------:|:----------:|:----:|:-----:|
+| B.Tech CSE | Parul University, Vadodara | 2022–2026 | CGPA: 7.02 |
+| Intermediate (MPC) | Sri Chaitanya, Vijayawada | 2020–2022 | 913/1000 |
+
+</div>
 
 ---
 
 ## 📜 Certifications
 
+<div align="center">
+
 | Certification | Issuer | ID |
-|---------------|--------|-----|
+|:------------:|:------:|:--:|
 | AI Engineer | OneRoadMap | CERT-BA0D1306 |
 | Data Analyst | OneRoadMap | CERT-0ECF6B3C |
 | Python | OneRoadMap | CERT-51B202E4 |
 | Java | OneRoadMap | CERT-504099IF |
 | SQL | OneRoadMap | CERT-255DOASO |
 
+</div>
+
 ---
 
 ## 📫 Get in Touch
 
-- **Email:** charanbadampudi7@gmail.com
-- **Phone:** +91-9515700267
-- **LinkedIn:** [charan badampudi](https://linkedin.com/in/charanbadampudi)
-- **Location:** India (open to relocation)
+<div align="center">
+
+**Email:** charanbadampudi7@gmail.com
+
+**Phone:** +91-9515700267
+
+**LinkedIn:** linkedin.com/in/charanbadampudi
+
+**Location:** India (open to relocation)
 
 ---
 
-<div align="center">
-<i>Always building. Always learning.</i>
+💡 *Always building. Always learning.*
+
 </div>
