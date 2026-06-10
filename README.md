@@ -13,7 +13,7 @@
 
 </div>
 
-<div align="centre">
+<div align="center">
   
 ## About Me
 
