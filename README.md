@@ -33,7 +33,6 @@ Computer Science student passionate about building intelligent systems that solv
   
 ## 🛠️ Tech Stack
 
-
 ### 💻 Core Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
@@ -69,9 +68,9 @@ Computer Science student passionate about building intelligent systems that solv
 
 ---
 
-## 💼 Experience
-
 <div align="center">
+  
+## 💼 Experience
 
 ### 📊 Data Science & Analytics Intern
 
@@ -104,9 +103,9 @@ During the internship, developed a **Titanic Survival Analysis** project using *
 
 ---
 
-## 🚀 Featured Projects
-
 <div align="center">
+  
+## 🚀 Featured Projects
 
 ### 🔊 SonicAI
 
@@ -219,9 +218,9 @@ Built an end-to-end machine learning solution to predict passenger survival outc
 
 ---
 
-## 🎓 Education
-
 <div align="center">
+  
+## 🎓 Education
 
 |           Degree          |         Institution        |    Year   |    Score   |
 | :-----------------------: | :------------------------: | :-------: | :--------: |
@@ -232,9 +231,9 @@ Built an end-to-end machine learning solution to predict passenger survival outc
 
 ---
 
+<div align="center">\
+  
 ## 📫 Let's Connect
-
-<div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-charanbadampudi7%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:charanbadampudi7@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-charan%20badampudi-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/charanbadampudi)
