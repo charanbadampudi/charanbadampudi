@@ -103,7 +103,6 @@ Completed a **3-month internship in Data Science & Data Analytics** at **Aenexz 
 During the internship, developed a **Titanic Survival Analysis** project using **Python and machine learning techniques** to analyze passenger data and predict survival outcomes. The project involved **data cleaning, feature engineering, exploratory data analysis (EDA), visualization, and predictive modeling** to identify the key factors influencing passenger survival.
 
 **Technologies Used:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-</div>
 
 **Key Contributions:**
 
@@ -115,6 +114,8 @@ During the internship, developed a **Titanic Survival Analysis** project using *
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
 ![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square)
+
+</div>
 
 ---
 
