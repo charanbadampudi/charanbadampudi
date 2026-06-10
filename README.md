@@ -28,7 +28,6 @@ class CharanBadampudi:
         print("Building end-to-end ML systems — from raw data to deployed apps!")
 
 ```
-```
 
 - 🔬 Building **production-grade AI systems** in Python
 - 🤖 Exploring **NLP, Computer Vision, and Audio Intelligence**
