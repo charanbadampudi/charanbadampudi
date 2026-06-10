@@ -15,43 +15,7 @@
 
 ## 📖 About Me
 
-```html
-<div align="center">
 
-<h2>👋 Hey there! I'm Charan Badampudi</h2>
-<h3>ML Engineer / AI-ML Enthusiast</h3>
-
-</div>
-
-<pre>
-class CharanBadampudi:
-    def __init__(self):
-        self.role = "ML Engineer / AI-ML Enthusiast"
-        self.education = "B.Tech CSE, Parul University (2022–2026)"
-        self.interests = [
-            "Natural Language Processing",
-            "Computer Vision",
-            "Audio Intelligence"
-        ]
-        self.internship = (
-            "Data Science & Analytics Intern "
-            "@ Aenexz Tech, Bangalore"
-        )
-        self.open_to = [
-            "AI/ML Engineering",
-            "Data Science",
-            "Applied Research"
-        ]
-
-    def say_hello(self):
-        return (
-            "Building end-to-end ML systems — "
-            "from raw data to deployed applications!"
-        )
-
-me = CharanBadampudi()
-print(me.say_hello())
-</pre>
 ```
 ```
 
