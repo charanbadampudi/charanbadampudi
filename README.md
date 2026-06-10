@@ -15,6 +15,17 @@
 
 ## 📖 About Me
 
+```python
+class CharanBadampudi:
+    def __init__(self):
+        self.role = "ML Engineer / AI/ML Enthusiast"
+        self.education = "B.Tech CSE, Parul University (2022–2026)"
+        self.interests = ["NLP", "Computer Vision", "Audio Intelligence"]
+        self.internship = "Data Science & Analytics @ Aenexz Tech, Bangalore"
+        self.open_to = ["AI/ML Engineering", "Data Science", "Applied Research"]
+        
+    def say_hello(self):
+        print("Building end-to-end ML systems — from raw data to deployed apps!")
 
 ```
 ```
