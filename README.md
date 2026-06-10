@@ -13,6 +13,8 @@
 
 </div>
 
+<div align="centre">
+  
 ## About Me
 
 Computer Science student passionate about building intelligent systems that solve real-world problems. My expertise spans **Machine Learning, Natural Language Processing, Computer Vision, and Audio Intelligence**, with a focus on designing complete ML pipelines — from data preprocessing and experimentation to deployment.
@@ -22,6 +24,8 @@ Computer Science student passionate about building intelligent systems that solv
 * 🌱 Completed a 3-month Data Science & Analytics internship at Aenexz Tech, Bangalore
 * 💼 Open to full-time and internship opportunities in AI/ML Engineering, Data Science, and Applied Research
 * 🚀 Passionate about transforming data into impactful, intelligent solutions
+
+</div>
 
 ---
 
