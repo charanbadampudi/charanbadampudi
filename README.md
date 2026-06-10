@@ -73,6 +73,7 @@
 
 </div>
 
+<div align="center">
 | Task | Description |
 |------|-------------|
 | 🧹 **Data Processing** | Cleaned and preprocessed large datasets for analysis |
@@ -80,7 +81,7 @@
 | 🔧 **Feature Engineering** | Engineered features to improve model performance |
 | 🤖 **Predictive Modeling** | Built classification models using Scikit-learn |
 | 📊 **Visualization** | Created dashboards and plots using Matplotlib & Seaborn |
-
+</div>
 ---
 
 ## 🚀 Featured Projects
