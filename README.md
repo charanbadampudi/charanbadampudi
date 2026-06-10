@@ -78,9 +78,10 @@ Computer Science student passionate about building intelligent systems that solv
 
 *January 2026 – April 2026*
 
-</div>
 
 Completed a **3-month internship in Data Science & Data Analytics** at **Aenexz Tech Private Limited**, where I worked on **data analysis, visualization, and machine learning concepts**. Gained hands-on experience in **Python, data preprocessing, exploratory data analysis (EDA), and predictive modeling** while demonstrating **consistency, innovation, and active participation** throughout the internship period.
+
+</div>
 
 <div align="center">
 
