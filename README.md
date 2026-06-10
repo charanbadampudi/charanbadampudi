@@ -1,6 +1,6 @@
 # Charan Badampudi
 
-**ML Engineer · AI/ML Enthusiast · Final Year CSE, Parul University '26**
+**ML Engineer · AI/ML Enthusiast · Parul University '26**
 
 [![Email](https://img.shields.io/badge/Email-charanbadampudi7%40gmail.com-C97B2F?style=flat-square&logo=gmail&logoColor=white)](mailto:charanbadampudi7@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-charan%20badampudi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/charanbadampudi)
