@@ -131,9 +131,9 @@ Developed an AI-powered speech enhancement system that combines Machine Learning
 
 **Key Contributions:**
 
- Built audio preprocessing and enhancement pipelines for noise reduction.
- Applied DSP techniques to improve speech clarity.
- Explored practical AI applications within audio intelligence systems.
+* Built audio preprocessing and enhancement pipelines for noise reduction.
+* Applied DSP techniques to improve speech clarity.
+* Explored practical AI applications within audio intelligence systems.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python)
 ![Librosa](https://img.shields.io/badge/Librosa-FF6B6B?style=flat-square)
@@ -149,9 +149,9 @@ Developed a Streamlit-based application that automates resume analysis and intel
 
 **Key Contributions:**
 
- Automated resume parsing and information extraction.
- Performed semantic matching using NLP techniques.
- Generated keyword gap analysis and recruitment insights.
+* Automated resume parsing and information extraction.
+* Performed semantic matching using NLP techniques.
+* Generated keyword gap analysis and recruitment insights.
 
 ![SpaCy](https://img.shields.io/badge/SpaCy-09A3D5?style=flat-square)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square)
@@ -167,9 +167,9 @@ Designed an intelligent chatbot capable of understanding visual content through 
 
 **Key Contributions:**
 
- Integrated YOLOv8 for object detection.
- Leveraged BLIP and BERT models for multimodal understanding.
- Developed a Flask backend for real-time inference and interaction.
+* Integrated YOLOv8 for object detection.
+* Leveraged BLIP and BERT models for multimodal understanding.
+* Developed a Flask backend for real-time inference and interaction.
 
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square)
 ![BLIP](https://img.shields.io/badge/BLIP-FF6B6B?style=flat-square)
@@ -185,9 +185,9 @@ Engineered a privacy-focused notes application featuring client-side encryption 
 
 **Key Contributions:**
 
- Implemented robust encryption mechanisms for secure note storage.
- Focused on balancing security with usability.
- Designed an intuitive interface for encrypted note management.
+* Implemented robust encryption mechanisms for secure note storage.
+* Focused on balancing security with usability.
+* Designed an intuitive interface for encrypted note management.
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square)
@@ -203,9 +203,9 @@ Conducted exploratory data analysis on AI employment trends and BMW sales datase
 
 **Key Contributions:**
 
- Identified emerging trends within the AI job market.
- Analyzed sales patterns to understand market dynamics.
- Built visualizations to effectively communicate findings.
+* Identified emerging trends within the AI job market.
+* Analyzed sales patterns to understand market dynamics.
+* Built visualizations to effectively communicate findings.
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
