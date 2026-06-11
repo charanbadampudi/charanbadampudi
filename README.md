@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Charan Badampudi 👋
+# Hi, I'm Charan Badampudi 
 
 ### Machine Learning Engineer | AI Enthusiast | B.Tech CSE @ Parul University '26
 
