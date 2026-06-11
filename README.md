@@ -1,249 +1,179 @@
 <div align="center">
 
-# Charan Badampudi
+# Hi, I'm Charan Badampudi 👋
 
-### ML Engineer | AI/ML Enthusiast | Parul University '26
+### Machine Learning Engineer | AI Enthusiast | B.Tech CSE @ Parul University '26
 
-[![Email](https://img.shields.io/badge/Gmail-charanbadampudi7%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:charanbadampudi7@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-charan%20badampudi-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/charanbadampudi)
-[![Location](https://img.shields.io/badge/Location-Bhimavaram-FF9933?style=for-the-badge\&logo=google-maps\&logoColor=white)](https://maps.google.com/?q=Bhimavaram)
-[![Phone](https://img.shields.io/badge/Phone-%2B91%209515700267-25D366?style=for-the-badge\&logo=whatsapp\&logoColor=white)](tel:+919515700267)
+*Building intelligent systems that turn data into real-world impact.*
 
----
-
-</div>
-
-<div align="center">
-  
-## About Me
-
-Computer Science student passionate about building intelligent systems that solve real-world problems. My expertise spans **Machine Learning, Natural Language Processing, Computer Vision, and Audio Intelligence**, with a focus on designing complete ML pipelines — from data preprocessing and experimentation to deployment.
+[![Portfolio](https://img.shields.io/badge/Portfolio-charanbadampudi.github.io-2E86AB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://charanbadampudi.github.io)
+[![Email](https://img.shields.io/badge/Gmail-charanbadampudi7%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:charanbadampudi7@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Charan%20Badampudi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/charanbadampudi)
+[![Location](https://img.shields.io/badge/Location-Bhimavaram%2C%20India-FF9933?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Bhimavaram)
 
 </div>
 
-* 🔬 Building end-to-end ML systems — from raw data to deployed applications
-* 🤖 Interested in NLP, Computer Vision, Audio Intelligence, and Multimodal AI
-* 🌱 Completed a 3-month Data Science & Analytics internship at Aenexz Tech, Bangalore
-* 💼 Open to full-time and internship opportunities in AI/ML Engineering, Data Science, and Applied Research
-* 🚀 Passionate about transforming data into impactful, intelligent solutions
+---
+
+## 👨‍💻 About Me
+
+I'm a Computer Science undergraduate passionate about building intelligent systems that solve real-world problems. My expertise spans **Machine Learning, Natural Language Processing, Computer Vision, and Audio Intelligence**, with a focus on designing complete ML pipelines — from data preprocessing and experimentation to deployment.
+
+- 🔬 Building **end-to-end ML systems** — from raw data to deployed applications
+- 🤖 Focused on **NLP, Computer Vision, Audio Intelligence, and Multimodal AI**
+- 🌱 Completed a **Data Science & Analytics internship** at Aenexz Tech, Bangalore
+- 💼 Open to **full-time and internship roles** in AI/ML Engineering, Data Science, and Applied Research
+- 🚀 Driven by transforming data into impactful, intelligent solutions
 
 ---
 
-<div align="center">
-  
 ## 🛠️ Tech Stack
 
-### 💻 Core Languages
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+**Languages**
 
-### 🤖 Machine Learning & AI
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)
+**Machine Learning & AI**
 
-### 📊 Data Science
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge\&logo=python\&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+**Data Science & Visualization**
 
-### 👁️ NLP & Computer Vision
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![SpaCy](https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge\&logo=python\&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge\&logo=python\&logoColor=black)
+**NLP & Computer Vision**
 
-### 🚀 Deployment & Tools
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+**Deployment & Tools**
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-<div align="center">
-  
 ## 💼 Experience
 
-### 📊 Data Science & Analytics Intern
+### Data Science & Analytics Intern — Aenexz Tech Private Limited
+📍 *Bangalore, India* | 🗓️ *January 2026 – April 2026*
 
-**Aenexz Tech Private Limited** | Bangalore, India
+Completed a 3-month internship focused on **data analysis, visualization, and machine learning**, gaining hands-on experience across the full data science workflow — from raw data to model evaluation.
 
-*January 2026 – April 2026*
+| Area | Contribution |
+| --- | --- |
+| 🧹 **Data Processing** | Collected, cleaned, and transformed raw datasets into analysis-ready formats |
+| 📈 **Exploratory Analysis** | Identified trends, correlations, and actionable insights from complex datasets |
+| 🔧 **Feature Engineering** | Designed and optimized features to improve model performance |
+| 🤖 **Predictive Modeling** | Built and evaluated classification models with Scikit-learn |
+| 📊 **Visualization** | Communicated findings through impactful Matplotlib & Seaborn visualizations |
+| 🚀 **ML Workflows** | Participated in the end-to-end ML lifecycle, from experimentation to interpretation |
 
+<details>
+<summary><b>🚢 Internship Project: Titanic Survival Analysis</b></summary>
+<br>
 
-Completed a **3-month internship in Data Science & Data Analytics** at **Aenexz Tech Private Limited**, where I worked on **data analysis, visualization, and machine learning concepts**. Gained hands-on experience in **Python, data preprocessing, exploratory data analysis (EDA), and predictive modeling** while demonstrating **consistency, innovation, and active participation** throughout the internship period.
+Built an end-to-end ML project analyzing passenger data to predict survival outcomes, covering **data cleaning, feature engineering, EDA, visualization, and predictive modeling**.
 
-</div>
+- Performed data preprocessing and feature engineering
+- Conducted comprehensive exploratory data analysis
+- Developed and compared multiple classification models
+- Evaluated model performance using standard metrics
 
-<div align="center">
+**Tech:** Python · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn
 
-| Task                       | Description                                                                                                            |
-| -------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| 🧹 **Data Processing**     | Collected, cleaned, and transformed raw datasets into analysis-ready formats using effective preprocessing techniques  |
-| 📈 **EDA**                 | Performed exploratory data analysis to identify trends, correlations, and actionable insights from complex datasets    |
-| 🔧 **Feature Engineering** | Designed and optimized features to enhance model performance and predictive capabilities                               |
-| 🤖 **Predictive Modeling** | Developed and evaluated machine learning models using Scikit-learn for classification tasks                            |
-| 📊 **Visualization**       | Created impactful visualizations using Matplotlib and Seaborn to communicate findings effectively                      |
-| 🚀 **ML Workflows**        | Participated in the end-to-end machine learning lifecycle, from experimentation to model evaluation and interpretation |
-
-</div>
-
-<div align="center">
-  
-### 🚢 Internship Project: Titanic Survival Analysis
-
-During the internship, developed a **Titanic Survival Analysis** project using **Python and machine learning techniques** to analyze passenger data and predict survival outcomes. The project involved **data cleaning, feature engineering, exploratory data analysis (EDA), visualization, and predictive modeling** to identify the key factors influencing passenger survival.
-
-**Technologies Used:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-
-**Key Contributions:**
-
-* Performed data preprocessing and feature engineering.
-* Conducted comprehensive exploratory data analysis.
-* Developed and compared multiple classification models.
-* Evaluated model performance using standard metrics.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square)
-
-</div>
+</details>
 
 ---
 
-<div align="center">
-  
 ## 🚀 Featured Projects
 
-### 🔊 SonicAI
+### 🔊 SonicAI — Intelligent Voice & Audio Enhancement System
+AI-powered speech enhancement system combining **Machine Learning** and **Digital Signal Processing** to improve speech intelligibility and audio quality.
+- Built audio preprocessing and enhancement pipelines for noise reduction
+- Applied DSP techniques to improve speech clarity
+- Explored practical AI applications in audio intelligence
 
-> *Intelligent Voice & Audio Enhancement System*
-
-Developed an AI-powered speech enhancement system that combines Machine Learning and Digital Signal Processing techniques to improve speech intelligibility and audio quality.
-
-**Key Contributions:**
-
-* Built audio preprocessing and enhancement pipelines for noise reduction.
-* Applied DSP techniques to improve speech clarity.
-* Explored practical AI applications within audio intelligence systems.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python)
-![Librosa](https://img.shields.io/badge/Librosa-FF6B6B?style=flat-square)
-![DSP](https://img.shields.io/badge/DSP-FFD93D?style=flat-square)
+`Python` `Librosa` `DSP`
 
 ---
 
-### 📄 Resume Screening & Matching App
+### 📄 Resume Screening & Matching App — NLP-Powered Recruitment Tool
+Streamlit application that automates resume analysis and intelligently matches candidates to job descriptions.
+- Automated resume parsing and information extraction
+- Performed semantic matching using NLP techniques
+- Generated keyword-gap analysis and recruitment insights
 
-> *NLP-Powered Recruitment Tool*
-
-Developed a Streamlit-based application that automates resume analysis and intelligently matches candidates with job descriptions.
-
-**Key Contributions:**
-
-* Automated resume parsing and information extraction.
-* Performed semantic matching using NLP techniques.
-* Generated keyword gap analysis and recruitment insights.
-
-![SpaCy](https://img.shields.io/badge/SpaCy-09A3D5?style=flat-square)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square)
+`spaCy` `Streamlit` `Scikit-learn`
 
 ---
 
-### 👁️ Convolutional Image Recognition Chatbot
+### 👁️ Convolutional Image Recognition Chatbot — Multimodal Visual AI Assistant
+Intelligent chatbot that understands visual content through object detection, image captioning, and image-based question answering.
+- Integrated **YOLOv8** for real-time object detection
+- Leveraged **BLIP** and **BERT** for multimodal understanding
+- Built a Flask backend for real-time inference and interaction
 
-> *Multi-Modal Visual AI Assistant*
-
-Designed an intelligent chatbot capable of understanding visual content through object detection, image captioning, and image-based question answering.
-
-**Key Contributions:**
-
-* Integrated YOLOv8 for object detection.
-* Leveraged BLIP and BERT models for multimodal understanding.
-* Developed a Flask backend for real-time inference and interaction.
-
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square)
-![BLIP](https://img.shields.io/badge/BLIP-FF6B6B?style=flat-square)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square)
+`YOLOv8` `BLIP` `BERT` `PyTorch` `Flask`
 
 ---
 
-### 🔐 VaultNotes
+### 🔐 VaultNotes — Secure Encrypted Notes Application
+Privacy-focused notes application featuring client-side encryption to safeguard sensitive information.
+- Implemented robust encryption for secure note storage
+- Balanced strong security with a smooth user experience
+- Designed an intuitive interface for encrypted note management
 
-> *Secure Encrypted Notes Application*
-
-Engineered a privacy-focused notes application featuring client-side encryption to safeguard sensitive information.
-
-**Key Contributions:**
-
-* Implemented robust encryption mechanisms for secure note storage.
-* Focused on balancing security with usability.
-* Designed an intuitive interface for encrypted note management.
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square)
+`React` `Node.js` `MongoDB`
 
 ---
 
-### 📊 MarketPulse Analytics
+### 📊 MarketPulse Analytics — Market Intelligence & Trend Analysis
+Exploratory data analysis on AI employment trends and BMW sales datasets to uncover market insights.
+- Identified emerging trends in the AI job market
+- Analyzed sales patterns to understand market dynamics
+- Built clear visualizations to communicate findings
 
-> *Market Intelligence & Trend Analysis*
-
-Conducted exploratory data analysis on AI employment trends and BMW sales datasets to uncover valuable market insights.
-
-**Key Contributions:**
-
-* Identified emerging trends within the AI job market.
-* Analyzed sales patterns to understand market dynamics.
-* Built visualizations to effectively communicate findings.
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square)
-
+`Pandas` `Matplotlib` `Seaborn`
 
 ---
 
-<div align="center">
-  
 ## 🎓 Education
 
-🎓 **B.Tech in Computer Science & Engineering**  
-**Parul University, Vadodara** • 2022 – 2026 • CGPA: 7.02  
+**B.Tech in Computer Science & Engineering**
+Parul University, Vadodara | *2022 – 2026* | CGPA: 7.02
 
-Leveraging my academic foundation in computer science to explore the fields of AI and Data Science through practical projects involving NLP, Computer Vision, Audio Intelligence, and predictive analytics. Passionate about transforming innovative ideas into impactful technological solutions.
-
-</div>
+Applying my computer science foundation to AI and Data Science through hands-on projects in NLP, Computer Vision, Audio Intelligence, and predictive analytics.
 
 ---
 
-<div align="center">
-  
 ## 📫 Let's Connect
 
-[![Gmail](https://img.shields.io/badge/Gmail-charanbadampudi7%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:charanbadampudi7@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-charan%20badampudi-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/charanbadampudi)
-[![GitHub](https://img.shields.io/badge/GitHub-charanbadampudi-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/charanbadampudi)
-[![Phone](https://img.shields.io/badge/Phone-%2B91%209515700267-25D366?style=for-the-badge\&logo=whatsapp\&logoColor=white)](tel:+919515700267)
-
-</div>
-
----
-
 <div align="center">
 
-### 🚀 *"Turning data into intelligent solutions through AI and Machine Learning."* 🚀
+[![Portfolio](https://img.shields.io/badge/Portfolio-charanbadampudi.github.io-2E86AB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://charanbadampudi.github.io)
+[![Gmail](https://img.shields.io/badge/Gmail-charanbadampudi7%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:charanbadampudi7@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Charan%20Badampudi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/charanbadampudi)
+[![GitHub](https://img.shields.io/badge/GitHub-charanbadampudi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/charanbadampudi)
+[![Phone](https://img.shields.io/badge/Phone-%2B91%209515700267-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919515700267)
 
 ---
+
+### *"Turning data into intelligent solutions through AI and Machine Learning."*
+
+⭐ *Feel free to explore my repositories and reach out for collaboration!*
 
 </div>
